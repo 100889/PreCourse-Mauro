@@ -1,2 +1,1 @@
-# PreCourse-Mauro
-Este es un repositorio del modulo 2 del Precourse Henry
+Este proyecto es una prueba de como hacer un repositorio 
